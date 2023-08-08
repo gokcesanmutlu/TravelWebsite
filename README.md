@@ -2,7 +2,7 @@
 
 It is a reliable website where you can make your travel plans.
 
-You can reach to website with this url : travelwebssite.netlify.app
+You can reach to website with this url : https://travelwebssite.netlify.app/
 
 
 <h2>Used technologies<h2>
