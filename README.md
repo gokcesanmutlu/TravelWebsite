@@ -12,7 +12,6 @@
   <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript</li>
   </ul>
   <p> Additional library : Boostrap</p>
   <p>You can reach to Website, when you are click <a href="https://travelwebssite.netlify.app">HERE</a>.</p>
